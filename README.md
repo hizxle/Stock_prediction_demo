@@ -9,14 +9,10 @@ The code is implemented as a part of the bootcamp [codaim]([url](https://xn--d1a
 ------------
 
     ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data set for modeling.
-    │   └── raw            <- The original dataset from Sber.
-    │
-    ├── models             <- Trained models, model predictions, or model summaries
     │
     ├── notebooks          <- Jupyter notebooks.
+    │
+    ├── python_code        <- Notebooks in form of python code.
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
     │                         generated with `pip freeze > requirements.txt
