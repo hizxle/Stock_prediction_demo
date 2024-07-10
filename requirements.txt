@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+torch
+tensorflow
+seaborn
+pillow
+requests
+catboost
+xgboost
+scikit-learn
+chardet
+scipy
